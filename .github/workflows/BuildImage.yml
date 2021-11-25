@@ -3,7 +3,7 @@ name: Build Image
 on: [push, pull_request, workflow_dispatch]
 
 env:
-  ENDPOINT: "therealjoshuad/dockermod-nginx-static"
+  ENDPOINT: "therealjoshuad/dockermodnginxstatic"
   BRANCH: "main"
 
 jobs:
